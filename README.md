@@ -15,7 +15,7 @@
 ![snake animation](https://raw.githubusercontent.com/omedcodes/omedcodes/output/github-contribution-grid-snake-dark.svg)
 
 ## About me
-Hey I am omed, I'm new to Coding and I am planning to learn web development HTML, CSS and Javascript
+Hey I am omed, I'm new to Coding and I am planning to learn web development HTML, CSS and Javascript.
 
 ### Languages
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
