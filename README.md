@@ -18,8 +18,10 @@
 Hey I am omed, I'm new to Coding and I am planning to learn web development HTML, CSS and Javascript.
 
 ### Languages
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=bash)
 
 ### Technologies & Frameworks
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
