@@ -14,25 +14,33 @@
 
 ![snake animation](https://raw.githubusercontent.com/omedcodes/omedcodes/output/github-contribution-grid-snake-dark.svg)
 
-## About me
-Hey I am omed, I'm new to Coding and I am planning to learn web development HTML, CSS and Javascript.
+## About Me
+Hey, I'm **omed**. I've shifted my focus from high level web exploration to the world of **systems programming** and **computer graphics**. 
 
-### Languages
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=bash)
+Currently spending my time with memory management in **C**, automating workflows with **Bash**, and rendering pixels with **OpenGL**. I'm also diving deeper into the **Linux** ecosystem and occasionally jumping back into **TypeScript** when the web calls.
 
-### Technologies & Frameworks
+### Tech Stack
+
+#### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Graphics & Systems
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
+![SDL2](https://img.shields.io/badge/SDL2-5.0?style=for-the-badge&color=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### DevOps & Tools
-![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
-![gmail](https://custom-icon-badges.herokuapp.com/badge/gmail-black.svg?logo=gmail&logoColor=blue&style=flat-square)
-![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
+#### Tools
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![vscode](https://img.shields.io/badge/vscode-%23F05032.svg?style=for-the-badge&logo=vscode&logoColor=white)
+
+---
 
 ## My Projects
 
@@ -44,5 +52,13 @@ Hey I am omed, I'm new to Coding and I am planning to learn web development HTML
     <!-- <a href="https://github.com/omedcodes/Educards-flashcards">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=omedcodes&repo=Educards-flashcards&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a> -->
+  </p>
+</details>
+
+<details>
+  <summary><b>Graphics & Low-Level</b></summary>
+  <br/>
+  <p align="center">
+    <i>Exploring the depths of C and OpenGL. Projects coming soon.</i>
   </p>
 </details>
