@@ -28,7 +28,7 @@ Currently spending my time with memory management in **C** automating workflows 
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Graphics & Systems
+#### Frameworks & Libraries
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
 ![SDL2](https://img.shields.io/badge/SDL2-black?style=for-the-badge&logo=sdl&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
