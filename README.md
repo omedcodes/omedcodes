@@ -15,9 +15,7 @@
 ![snake animation](https://raw.githubusercontent.com/omedcodes/omedcodes/output/github-contribution-grid-snake-dark.svg)
 
 ## About Me
-Hey, I'm **omed**. I've shifted my focus from high level web exploration to the world of **systems programming** and **computer graphics**. 
-
-Currently spending my time with memory management in **C** automating workflows with **Bash**, and rendering pixels with **OpenGL**. I'm also diving deeper into the **Linux** ecosystem and occasionally jumping back into **TypeScript** when the web calls.
+Hey, I'm **omed**, currently spending my time with **C** automating workflows with **Bash**, and rendering pixels with **OpenGL**. I'm also diving deeper into the **Linux** ecosystem and occasionally jumping back into **TypeScript** when the web calls.
 
 
 ### 🛠 Tech Stack
