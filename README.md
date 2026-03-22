@@ -6,7 +6,8 @@
     <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/omedcodes"/>
   </a>
   <a href="https://github.com/omedcodes?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/omedcodes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/omedcodes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
   <a href="https://github.com/omedcodes/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=omedcodes&style=for-the-badge&color=lightgrey"/>
   </a>
@@ -14,55 +15,71 @@
 
 ![snake animation](https://raw.githubusercontent.com/omedcodes/omedcodes/output/github-contribution-grid-snake-dark.svg)
 
-## About Me
-Hey, I'm **omed**, currently spending my time with **C** automating workflows with **Bash**, and rendering pixels with **OpenGL**. I'm also diving deeper into the **Linux** ecosystem and occasionally jumping back into **TypeScript** when the web calls.
+## hey i'm omed
 
+16 year old developer and student. I mostly write C and C++ right now and care a lot about performance, low level stuff and open source. lately I've been deep into OpenGL and graphics programming which is where most of my free time goes.
 
-### 🛠 Tech Stack
+still learning a lot and I try to build real things rather than just following tutorials. school keeps me busy too so most projects here are things I work on in my own time.
 
-#### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## What I work with
 
-#### Frameworks & Libraries
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=black)
-![SDL2](https://img.shields.io/badge/SDL2-black?style=for-the-badge&logo=sdl&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### languages
 
-#### Tools
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
+![cpp](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus)
+![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+![sql](https://img.shields.io/badge/sql-black?style=flat-square&logo=mysql)
+![html](https://img.shields.io/badge/html-black?style=flat-square&logo=html5)
+![css](https://img.shields.io/badge/css-black?style=flat-square&logo=css3)
 
----
+### technologies and frameworks
 
-## 📈 Activity & Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omedcodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omedcodes&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
+![opengl](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
+![glfw](https://img.shields.io/badge/glfw-black?style=flat-square&logo=opengl)
+![glad](https://img.shields.io/badge/glad-black?style=flat-square&logo=opengl)
+![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
+![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![springboot](https://img.shields.io/badge/spring_boot-black?style=flat-square&logo=springboot)
+![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
+![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
+![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
+![css](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=1572B6)
+![xampp](https://img.shields.io/badge/xampp-black?style=flat-square&logo=xampp)
 
----
+### tools and environment
 
-## My Projects
+![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
+![clion](https://img.shields.io/badge/clion-black?style=flat-square&logo=clion)
+![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
+![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
+![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
+![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
+![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
+![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
+![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
+
+## projects
 
 <details>
-  <summary><b>🌐 Graphics & Low Level</b></summary>
+  <summary><b>graphics and low level</b></summary>
   <br/>
   <p align="center">
-    <i>Exploring the depths of C and OpenGL. Projects coming soon.</i>
+    <a href="https://github.com/omedcodes/llml">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=omedcodes&repo=llml&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
   </p>
 </details>
 
 <details>
-  <summary><b>🌐 Websites</b></summary>
-   <br/>
+  <summary><b>web apps</b></summary>
+  <br/>
   <p align="center">
-    <i>Legacy web projects and TypeScript experiments.</i>
+    <p>coming soon</p>
   </p>
 </details>
