@@ -94,26 +94,6 @@ still learning a lot and I try to build real things rather than just following t
   <summary><b>graphics and low level</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/omedcodes/llml">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=omedcodes&repo=llml&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary><b>web apps</b></summary>
-  <br/>
-  <p align="center">
-    <p>coming soon</p>
-  </p>
-</details>
-
-## projects
-
-<details>
-  <summary><b>graphics and low level</b></summary>
-  <br/>
-  <p align="center">
     <a href="https://github.com/omedcodes/llmlib">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=omedcodes&repo=llml&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
