@@ -15,7 +15,7 @@
 
 ![snake animation](https://raw.githubusercontent.com/omedcodes/omedcodes/output/github-contribution-grid-snake-dark.svg)
 
-## hey i'm omed
+## hey i'm med
 
 16 year old developer and student. I mostly write C and C++ right now and care a lot about performance, low level stuff and open source. lately I've been deep into OpenGL and graphics programming which is where most of my free time goes.
 
