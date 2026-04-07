@@ -27,30 +27,23 @@ still learning a lot and I try to build real things rather than just following t
 
 ![c](https://img.shields.io/badge/c-black?style=flat-square&logo=c)
 ![cpp](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus)
-![java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk)
-![php](https://img.shields.io/badge/php-black?style=flat-square&logo=php)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![sql](https://img.shields.io/badge/sql-black?style=flat-square&logo=mysql)
-![html](https://img.shields.io/badge/html-black?style=flat-square&logo=html5)
-![css](https://img.shields.io/badge/css-black?style=flat-square&logo=css)
 
 ### technologies and frameworks
 
 ![opengl](https://img.shields.io/badge/opengl-black?style=flat-square&logo=opengl)
 ![glfw](https://img.shields.io/badge/glfw-black?style=flat-square&logo=opengl)
 ![glad](https://img.shields.io/badge/glad-black?style=flat-square&logo=opengl)
-![javafx](https://img.shields.io/badge/javafx-black?style=flat-square&logo=openjdk)
-![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
-![springboot](https://img.shields.io/badge/spring_boot-black?style=flat-square&logo=springboot)
+![glew](https://img.shields.io/badge/glad-black?style=flat-square&logo=opengl)
+![glm](https://img.shields.io/badge/glad-black?style=flat-square&logo=opengl)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=nodedotjs)
 ![html5](https://img.shields.io/badge/html-black?style=flat-square&logo=html5)
-![css](https://img.shields.io/badge/css-black?style=flat-square&logo=css)
-![xampp](https://img.shields.io/badge/xampp-black?style=flat-square&logo=xampp)
+![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css)
 
 ### tools and environment
 
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visualstudiocode)
-![clion](https://img.shields.io/badge/clion-black?style=flat-square&logo=clion)
 ![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellijidea)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
@@ -58,8 +51,6 @@ still learning a lot and I try to build real things rather than just following t
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![cmake](https://img.shields.io/badge/cmake-black?style=flat-square&logo=cmake)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
-![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
-![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip)
 
 ## projects
 
